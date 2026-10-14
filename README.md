@@ -1,6 +1,6 @@
 ## Hi there. I'm <a href="https://fonareyn.github.io">fonareyn</a>👋
 
-<p>I'm frontend developer. <br>I'm coding on HTML/CSS/JavaScript</p>
+<p>I'm frontend developer. <br>I'm coding on HTML/CSS/JavaScript/Python</p>
 
 
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
