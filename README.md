@@ -2,4 +2,4 @@
 
 I'm frontend developer. 
 I'm coding on HTML/CSS/JavaScript
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<br>![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
